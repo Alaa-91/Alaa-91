@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alaa-91
+- 👋 Hi, I’m Ala'a Qutaish
 - 👀 I’m interested in Data Mining, Machine Learning, Deep Learning and Health informatics. 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on ...
